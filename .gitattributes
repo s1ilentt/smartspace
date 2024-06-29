@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Explicitly set the line endings for specific file types
+*.css text eol=lf
+*.svg text eol=lf
+*.config text eol=lf
